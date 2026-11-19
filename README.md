@@ -5,9 +5,7 @@ Making every gram of gold verifiable.
 
 Hack for Bharat | Theme: Jeweltech | Problem Statement 2.1 (supported by 2.2)
 
-Team: [Team name] | Members: [Member names]
-
-> Note: this write-up and the diagrams were drafted with AI assistance (Claude) and reviewed by the team. [Edit this line to match the hackathon's disclosure rules.]
+Team: [SHADOW NINJAS] | Members: [SANTHOSH KUMAR M, GOWRAV MADIVALAR, DEEPTHI H P ]
 
 ## Problem
 
